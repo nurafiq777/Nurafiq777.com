@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 04 Apr 2023 01:51:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Apr 2023 02:20:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
+		<title>try try try</title>
+		<link>/try-try-try/</link>
+		
+		<dc:creator><![CDATA[afiq]]></dc:creator>
+		<pubDate>Tue, 04 Apr 2023 02:20:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=18</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>just a 1st post</title>
 		<link>/just-a-1st-post/</link>
 					<comments>/just-a-1st-post/#respond</comments>
@@ -46,7 +61,7 @@
 		<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+					<comments>/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[afiq]]></dc:creator>
 		<pubDate>Tue, 04 Apr 2023 01:24:52 +0000</pubDate>
@@ -59,7 +74,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
